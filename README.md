@@ -1,4 +1,4 @@
-# Medication Adherence using a Convolution Neural Network
+# Medication Adherence Using a Convolution Neural Network
 
 
 ## Table of Contents
