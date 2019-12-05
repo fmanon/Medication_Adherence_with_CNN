@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [01. What's In This Repository Anyway?](*01.-What's-In-This-Repository-Anyway?)
+- [01. What's In This Repository Anyway?](#01.-What's-In-This-Repository-Anyway?)
 - [02. And Now, Some Backstory...](#02.-And-Now,-Some-Backstory...)
 - [03. Executive Summary](#03.-Executive-Summary)
     - [A. Download Setup](#A.-Download-Setup)
@@ -23,7 +23,7 @@
 
 - `README`: The documentation that you are currently reading.
 
-### And Now, Some Backstory...
+### 02. And Now, Some Backstory...
 
 My mother underwent a kidney transplant in the Summer of 2019.  In the following months, things became complicated and she was in and out of the hospital on an almost weekly basis.  As a results of these complications and extra surgery, there are numerous medications she now has to manage.  As of this writing, we have switched out medications on an almost weekly basis, while, thankfully, reducing the total amount of pills, capsules, and injections from over 20 down to 14.  Constantly having to set up her pill box is time consuming and tiring, as you have to account for the changes in medications and ensure its accurate administration. Adhering to this system is draining and she is not alone in this.  2/3rd of people in the United States have prescriptions, and only half take their medications as directed.  This is known as medication nonadherence and it costs the U.S. roughly 289 billion dollars annually, accounting for 10% of all hospitalizations.
 
