@@ -29,7 +29,7 @@ My mother underwent a kidney transplant in the Summer of 2019.  In the following
 
 What if we could reduce the amount of unnecessary hospitalization?  How about decreasing the 125,000 annual deaths associated with medication nonadherence?  What if patients had a way to better adhere to their medication routines?  Enter Dr. Luigi.
 
-[Dr.Luigi](.images/drluigi.jpg)
+![Dr.Luigi](images/drluigi.jpg)
 *After years of living in Mario's shadow, Luigi went to med school and became a doctor.*
 
 Dr. Luigi is the name given to the convolutional neural network (CNN) being built out for this project.  Since medications come in various shapes, sizes, colors and imprints, things can quickly become confusing for a patient, especially if there are numerous medications to keep track of.  The idea is to properly identify pills in order account for accurate, correct dosages for a patient.  We will build out a CNN for this task.  CNNs are ideal as they are used in object detection and identification in images and videos.  To gauge the successful identification of the medications, we will look at the relationship between the model's loss and accuracy.
@@ -61,7 +61,7 @@ This step, as the previous one before it, gave us some issues.  Our computer wou
 
 We were unsuccessful in using the consumer-grade images as our testing data (due to improper setups).  This, combined with a large training dataset gave us setbacks in building a viable model.  This gave us the below results for our model's 'best' parameters:
 
-[chart](.images/chart.png)
+![chart](images/chart.png)
 
 As a note, these issues are identifiable and addressable.  Given more time, we can address the issues below:
 
