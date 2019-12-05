@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [01. What's In This Repository Anyway?](*01.-What's-In-This-Repository-Anyway?)
-- [02. And Now, Some Backstory](#02.-And-Now,-Some-Backstory)
+- [02. And Now, Some Backstory...](#02.-And-Now,-Some-Backstory...)
 - [03. Executive Summary](#03.-Executive-Summary)
     - [A. Download Setup](#A.-Download-Setup)
     - [B. Downloading Images](#B.-Downloading-Images)
